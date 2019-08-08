@@ -1,0 +1,90 @@
+.center-div {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+ .top-box, .small-rectangle, .large-rectangle, .circle { 
+    width: 85vw;
+    height: 20vh;
+    border-style: solid;
+    border-width: 5px;
+    display: block;
+    margin: 0 auto;
+    
+}
+.top-box{
+    padding-top: 20px;
+    margin-top: 20px;
+
+}
+
+.small-rectangle, .large-rectangle, .circle {
+    width: 5vw;
+    height: 10vh;
+    display: inline-block;
+    background-color: #8A2Be2;
+    border-style: none;
+}
+.small-rectangle {
+    margin-right: 20px;
+    margin-left: 40px;
+}
+
+.large-rectangle {
+    width: 30vw;
+    height: 15vh;
+    background-color: #228b22;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.circle {
+    height: 15vh;
+    border-radius: 50%;
+    background-color: #87CEEB;
+    padding-right: 50px;
+    margin-left: 20px;
+}
+
+.middle-box, .long-rectangle {
+    border-style: dotted;
+    border-width: 5px;
+    width: 85vw;
+    height: 20vh;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.middle-box {
+    margin-top: 40px;
+}
+
+.long-rectangle {
+    width: 70vw;
+    height: 10vh;
+    border-style: none;
+    background-color: #fffacd;
+    box-shadow: 10px 10px 5px rgb(51, 44, 44);
+    
+}
+
+.bottom-box {
+    width: 50vw;
+    height: 20vh;
+    margin: 0 auto;
+    padding-top: 120px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 2px 2px 1px rgb(173, 173, 173);
+    margin-top: 40px;
+}
+
+.bottom-box h2 {
+    font-size: 2rem;
+    color: #000080;
+    letter-spacing: 8px;
+    font-weight: bold;
+}
+
