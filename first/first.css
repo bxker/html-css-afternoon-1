@@ -1,0 +1,26 @@
+body {
+    background-color: #d8d8d8;
+}
+
+.nav-bar-top {
+    background: #444444;
+    padding: 10vh;
+}
+
+.center-divs {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.main-content, .footer {
+    width: 75vw;
+    height: 70vh;
+    background-color: #ffffff;
+    display: block;
+    margin: 0 auto;
+}
+
+.footer {
+    height: 10vh;
+    background-color: #222222;
+}
