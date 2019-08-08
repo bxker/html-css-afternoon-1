@@ -1,0 +1,58 @@
+.center-div {
+    
+}
+
+.grey-box {
+    width: 100vw;
+    height: 12vh;
+    background-color: #d8d8d8;
+    
+}
+
+.small-blue-box {
+    width: 8.5vw;
+    height: 9.5vh;
+    background-color: #4a90e2;
+    margin-left: 20px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.text-box {
+    width: 100vw;
+    height: 29.8vh;
+    background: white;
+}
+
+.text-box h3 {
+    text-align:center;
+    padding-top: 62px;
+    font-size: 1.64rem;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: rgb(90, 90, 90)
+}
+
+.blue-box {
+    width: 100vw;
+    height: 15vh;
+    background-color: #4a90e2;
+}
+
+.green-box-1 {
+    width: 100vw;
+    height: 15vh;
+    background-color: #50e3c2; 
+}
+
+.green-box-2 {
+    width: 100vw;
+    height: 15vh;
+    background-color: #b8e986;
+}
+
+.yellow-box {
+    width: 100vw;
+    height: 15vh;
+    background-color: #f8e71c;
+}
